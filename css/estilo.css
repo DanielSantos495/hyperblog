@@ -4,3 +4,10 @@ body
     font-family: arial;
     color: pink;
 }
+
+.blogpost
+{
+    color: #fff;
+    background: #464646;
+    text-align: left;
+}
