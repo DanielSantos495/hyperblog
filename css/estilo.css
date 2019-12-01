@@ -4,10 +4,22 @@ body
     font-family: arial;
     color: pink;
 }
+h1
+{
+    background: black;
+    color: white;
+    margin:40px 200px;
+    padding: 0;
+}
+.cabecera
+{
+    border: 1px solid red;
+}
 
 .blogpost
 {
     color: #fff;
-    background: #464646;
+    background: #555474;
     text-align: left;
+    border: 1px solid black;
 }
