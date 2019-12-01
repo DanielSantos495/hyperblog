@@ -1,13 +1,18 @@
 body
 {
-    text-align: center;
-    font-family: arial;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace
     color: pink;
 }
 
 .blogpost
 {
+    
     color: #fff;
     background: #464646;
     text-align: left;
+}
+.blogpost p
+{
+    text-align: right;
 }
